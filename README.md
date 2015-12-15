@@ -1,2 +1,1 @@
-# D
-Double - Version 2
+Documentation please refer to: https://github.com/clionelabs/double
